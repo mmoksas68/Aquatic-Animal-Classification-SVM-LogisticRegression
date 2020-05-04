@@ -1,4 +1,5 @@
 <h1>Aquatic Animal Classification using Logistic Regression and Support Vector Machines</h1>
+<p>This project is CS-464 Introduction to Machine Learning Spring 2020 Homework 2</p>
 
 This homework is implemented in MATLAB. There are 4 matlab scripts:
 
