@@ -1,7 +1,7 @@
 <h1>Aquatic Animal Classification using Logistic Regression and Support Vector Machines</h1>
 <p>This project is CS-464 Introduction to Machine Learning Spring 2020 Homework 2</p>
 
-The models is implemented in MATLAB. My results are in the report file. There are 4 matlab scripts:
+The models is implemented in MATLAB. You can find homework description, dataset, and my final report in the repository. There are 4 matlab scripts:
 
 q1_logistic_regression.m<br>
 q1_svm_subclass.m<br>
