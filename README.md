@@ -1,1 +1,0 @@
-# Aquatic-Animal-Classification-SVM-LogisticRegression
