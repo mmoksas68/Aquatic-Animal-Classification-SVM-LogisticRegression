@@ -3,9 +3,9 @@
 
 The models is implemented in MATLAB. My results are in the report file. There are 4 matlab scripts:
 
-q1_logistic_regression.m
-q1_svm_subclass.m
-q1_svm_superclass.m
+q1_logistic_regression.m<br>
+q1_svm_subclass.m<br>
+q1_svm_superclass.m<br>
 q2_pca_analysis.m
 
 To run each scripts, the script should be in the same folder as the data provided for hw2.
