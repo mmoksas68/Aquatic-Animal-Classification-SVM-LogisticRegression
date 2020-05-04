@@ -1,4 +1,4 @@
-CS464_HW2_2_MuhammedMusab_Oksas
+#Aquatic Animal Classification using Logistic Regression and Support Vector Machines
 
 This homework is implemented in MATLAB. There are 4 matlab scripts:
 
